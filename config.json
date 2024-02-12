@@ -5,7 +5,7 @@
   },
   "github": {
     "username": "Urappsdeve",
-    "repository": "flower-wallpaper",
+    "repository": "ramadanwallpaper",
     "branch": "main"
   },
   "settings": {
@@ -23,15 +23,15 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "facebook",
+    "backup_ads": "admob",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "ca-app-pub-4717046364682563~4596470492",
-        "app_open_id": "ca-app-pub-4717046364682563/5111475810",
-        "banner_id": "ca-app-pub-4717046364682563/9713065801",
-        "interstitial_id": "ca-app-pub-4717046364682563/4265298005",
-        "rewarded_id": "ca-app-pub-4717046364682563/7737639157",
-        "native_id": "ca-app-pub-4717046364682563/1639134669"
+        "app_open_id": "ca-app-pub-4717046364682563/",
+        "banner_id": "ca-app-pub-4717046364682563/",
+        "interstitial_id": "ca-app-pub-4717046364682563/",
+        "rewarded_id": "ca-app-pub-4717046364682563/",
+        "native_id": "ca-app-pub-4717046364682563/"
       },
       "google_ad_manager": {
         "app_open_id": "/6499/example/app-open",
